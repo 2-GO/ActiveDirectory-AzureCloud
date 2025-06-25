@@ -1,4 +1,4 @@
-![ad](https://github.com/user-attachments/assets/9fc11080-2cc3-42df-83f7-48789d7dac72)
+![what-is-active-directory-and-why-is-it-used](https://github.com/user-attachments/assets/0f3029d9-5013-4e7b-b6da-c2fa2a577e51)
 # On-Premise Active Directory Deployed in Azure Cloud
 Goal: Implement on-premise active directory within Azure VMs.
 
