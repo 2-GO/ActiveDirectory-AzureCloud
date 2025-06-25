@@ -58,6 +58,6 @@ Log into Client as the domain administrator (mydomain.com\jojo_admin) and enable
 
 
 ## Summary
-This project demonstrates the end-to-end setup of a basic Active Directory environment in Microsoft Azure. It includes deploying and configuring a domain controller and client machine, ensuring network connectivity, installing and managing Active Directory Domain Services, organizing users and computers using OUs, enabling Remote Desktop access for standard users, and automating bulk user creation via PowerShell. The final result is a functional, cloud-based domain environment that supports centralized authentication and remote access for domain users.
+This lab demonstrates the end-to-end setup of a basic Active Directory environment in Microsoft Azure. It includes deploying and configuring a domain controller and client machine, ensuring network connectivity, installing and managing Active Directory Domain Services, organizing users and computers using OUs, enabling Remote Desktop access for standard users, and automating bulk user creation via PowerShell. The final result is a functional, cloud-based domain environment that supports centralized authentication and remote access for domain users.
 
 
